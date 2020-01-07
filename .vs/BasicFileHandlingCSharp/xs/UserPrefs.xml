@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{2B577418-A40E-461A-AE13-0331549E3967}|Default">
+  <MonoDevelop.Ide.ItemProperties.PlayingWithFiles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlayingWithFiles/Program.cs">
+    <Files>
+      <File FileName="BasicFileHandlingCSharp/TextFileFunctions.cs" Line="18" Column="10" />
+      <File FileName="PlayingWithFiles/Program.cs" Line="42" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BasicFileHandlingCSharp" expanded="True" selected="True">
+            <Node name="BasicFileHandlingCSharp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="PlayingWithFiles" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
